@@ -1,1 +1,5 @@
-
+{
+  "plugins": [
+    "https://raw.githubusercontent.com/saimuelbr/saimuel-nuvio-repo/refs/heads/main/manifest.json"
+  ]
+}
