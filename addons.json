@@ -2,6 +2,6 @@
   "addons": [
     "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxwbXAsbmZrLGN0cyxnb3AsY3J1LG1nbCxjbHYsbWJpOjpCUjoxNzkyMzcyMDM5MDE1OjA6MDpCUg%3D%3D/manifest.json",
     "https://v3-cinemeta.strem.io/manifest.json",
-    "https://animes-br-self.vercel.app/manifest.json"
+    "https://fenixflix.fenixhub.online/qualities=4k,1080p,720p,sd%7Caudio=dublado,legendado%7Ccatalogs=populares_movie,populares_series,recentes_movie,recentes_series,episodios_novos/manifest.json"
   ]
 }
