@@ -5,6 +5,6 @@
     "https://94c8cb9f702d-brazuca-torrents.baby-beamup.club/manifest.json",
     "https://animes-br-self.vercel.app/manifest.json",
     "https://magnetflix.flixbr.online/qualities%3D4k%2C1080p%2C720p%2Csd%7Caudio%3Ddublado%2Clegendado%7Ccatalogs%3Dpopulares_movie%2Cpopulares_series%2Crecentes_servidor_movie%2Crecentes_servidor_series%2Cemalta_movie%2Cemalta_series/manifest.json",
-    "stremio://opensubtitles-v3.strem.io/manifest.json"
+    "https://opensubtitles-v3.strem.io/manifest.json"
    ]
 }
