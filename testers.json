@@ -18,7 +18,11 @@
     },
     { "name": "Pandixxx",
       "image": "https://i.imgur.com/pq9p2DN.png",
-      "tier": "avancado",
+      "tier": "avancado"
+    },
+    { "name": "Not.ana",
+      "image": "https://i.imgur.com/EnGZGfC.png",
+      "tier": "avancado"
     }
   ]
 }
