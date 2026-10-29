@@ -1,1 +1,24 @@
-
+{
+  "version": 1,
+  "testers": [
+    {
+      "name": "Vini",
+      "image": "https://i.imgur.com/6geeOHi.png",
+      "link": "https://instagram.com/viniwalkersp",
+      "tier": "primordial"
+    },
+    {
+      "name": "Gersin",
+      "image": "https://i.imgur.com/HGG2ArX.png",
+      "tier": "oficial"
+    },
+    { "name": "Val",
+      "image": "https://i.imgur.com/vlqnxdS.png",
+      "tier": "oficial"
+    },
+    { "name": "Pandixxx",
+      "image": "https://i.imgur.com/pq9p2DN.png",
+      "tier": "avancado",
+    }
+  ]
+}
