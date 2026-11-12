@@ -27,6 +27,10 @@
     { "name": "Not.ana",
       "image": "https://i.imgur.com/EnGZGfC.png",
       "tier": "avancado"
+    },
+    { "name": "Misty",
+      "image": "https://i.imgur.com/hvvq1q5.png",
+      "tier": "avancado"
     }
   ]
 }
