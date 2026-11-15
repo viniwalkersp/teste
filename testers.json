@@ -31,6 +31,10 @@
     { "name": "Misty",
       "image": "https://i.imgur.com/hvvq1q5.png",
       "tier": "avancado"
+    },
+    { "name": "Micka",
+      "image": "https://i.imgur.com/VWlSPBJ.png",
+      "tier": "avancado"
     }
   ]
 }
