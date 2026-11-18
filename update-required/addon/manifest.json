@@ -1,0 +1,17 @@
+{
+  "id": "com.insanox.aviso-atualizacao",
+  "version": "1.0.0",
+  "name": "ATUALIZE O INSANOX",
+  "description": "Esta versão do Insanox foi descontinuada. Fale com @viniwalkersp para conseguir a versão nova.",
+  "logo": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso-logo.png",
+  "types": ["movie"],
+  "resources": ["catalog", "meta", "stream"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "atualize",
+      "name": "ATUALIZE O INSANOX",
+      "extra": []
+    }
+  ]
+}
