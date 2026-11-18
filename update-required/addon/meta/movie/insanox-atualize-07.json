@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "insanox-atualize-07",
+    "type": "movie",
+    "name": "NADA ABRE NESTA VERSÃO",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso-poster-2.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso-banner-2.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso-logo.png",
+    "releaseInfo": "Aviso",
+    "runtime": "1 min",
+    "genres": ["Aviso"],
+    "description": "Qualquer filme ou série que você tentar assistir mostra este aviso até você atualizar. Fale com @viniwalkersp para conseguir a versão nova."
+  }
+}
