@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "insanox-atualize-12",
+    "type": "movie",
+    "name": "VOLTE A ASSISTIR ATUALIZANDO",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso-poster-3.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso-banner-3.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso-logo.png",
+    "releaseInfo": "Aviso",
+    "runtime": "1 min",
+    "genres": ["Aviso"],
+    "description": "Fale com @viniwalkersp para conseguir a versão nova. Depois disso, o Insanox abre normalmente."
+  }
+}
