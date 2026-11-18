@@ -1,0 +1,13 @@
+{
+  "streams": [
+    {
+      "name": "Insanox",
+      "title": "ATUALIZE O INSANOX",
+      "description": "Chame @viniwalkersp e peça a versão nova do Insanox.",
+      "url": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso.mp4",
+      "behaviorHints": {
+        "filename": "Atualize o Insanox.mp4"
+      }
+    }
+  ]
+}
