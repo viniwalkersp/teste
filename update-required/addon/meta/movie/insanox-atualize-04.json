@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "insanox-atualize-04",
+    "type": "movie",
+    "name": "SEUS PLUGINS FORAM DESLIGADOS",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso-poster-4.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso-banner-4.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp/teste/refs/heads/main/update-required/midia/aviso-logo.png",
+    "releaseInfo": "Plugins removidos",
+    "runtime": "1 min",
+    "genres": ["Aviso"],
+    "description": "Os plugins desta versão foram removidos. Fale com @viniwalkersp para conseguir a versão nova."
+  }
+}
